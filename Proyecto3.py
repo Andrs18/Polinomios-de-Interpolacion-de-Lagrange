@@ -59,3 +59,4 @@ D_x3 = D_x1 + D_x2
 plt.plot(D_x3,D_y)
 plt.xlabel('x')
 plt.ylabel('y')
+plt.show()
