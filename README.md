@@ -16,9 +16,14 @@ Saltar al paso 4.
 ![3](https://user-images.githubusercontent.com/66414813/87029058-36b7c800-c1a5-11ea-9b23-4770cc3a528f.gif)
 
 #### •	“Directa”:
+Nota: Se debe tener un archivo .xlsx con los datos en ordenados en columnas. Por ejemplo:
+
+![Captura](https://user-images.githubusercontent.com/66414813/87030587-71226480-c1a7-11ea-9e71-e9466a5eb326.JPG)
+
+
 1.	Dar clic en el botón “Importar Archivo”.
-2.	Seleccionar el archivo .csv
-3.	Seleccionar las columnas “x” y “y” conocidas.
+2.	Buscar y seleccionar el archivo .xlsx
+3.	Seleccionar la hoja para trabajar y las columnas “x” y “y” conocidas.
 Saltar al paso 4.
 
 ![4](https://user-images.githubusercontent.com/66414813/87029231-71216500-c1a5-11ea-9f3c-828b8434dc0d.gif)
