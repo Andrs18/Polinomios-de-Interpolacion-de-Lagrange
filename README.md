@@ -7,7 +7,7 @@ En este caso, el proyecto se enfoca en desarrollar el método denominado “Poli
 
 ## Modo de Uso
 El programa presenta dos maneras iniciales para su ejecución:
-### •	“Manual”:
+#### •	“Manual”:
 1.	Ingresar una pareja de datos conocida (x, f(x)) en las casillas “Datos en X” y “Datos en Y”, respectivamente.
 2.	Dar clic en el botón “Siguiente Valor” (se eliminarán visualmente los datos ingresados).
 3.	Se procede a realizar nuevamente el paso 1 y 2 hasta que se hayan ingresado todas las parejas de datos conocidas (las casillas en donde se escribieron tales datos deben quedar en blanco).
@@ -15,7 +15,7 @@ Saltar al paso 4.
 
 ![3](https://user-images.githubusercontent.com/66414813/87029058-36b7c800-c1a5-11ea-9b23-4770cc3a528f.gif)
 
-### •	“Directa”:
+#### •	“Directa”:
 1.	Dar clic en el botón “Importar Archivo”.
 2.	Seleccionar el archivo .csv
 3.	Seleccionar las columnas “x” y “y” conocidas
