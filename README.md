@@ -24,6 +24,8 @@ Para poder ejecutar la aplicación, se necesita que el equipo tenga instalados l
 7.	Enseguida, en la casilla “Polinomio” se muestra el polinomio de aproximación simplificado; en la casilla “Evaluación” se muestra el valor de f(x) que se deseaba hallar.
 8.	En caso que se quiera encontrar un nuevo valor se deben realizar nuevamente todos los pasos dados.
 
+![3](https://user-images.githubusercontent.com/66414813/87029058-36b7c800-c1a5-11ea-9b23-4770cc3a528f.gif)
+
 # Construido con
 •	VS Code – Editor de Texto
 •	Qt Designer – Diseño de Aplicación
