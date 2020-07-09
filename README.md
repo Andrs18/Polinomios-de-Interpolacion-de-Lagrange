@@ -21,7 +21,7 @@ Para una exitosa instalación se deben seguir los siguietes pasos:
 3. Ejecute el archivo "Proyecto.py".
 
 Nota: si se va a ejecutar desde Windows y se utiliza el editor para Python "VSCode", es necesario dar clic en la pestaña de opciones “Debug” y escoger la opción “Run without debugging”
-
+![6](https://user-images.githubusercontent.com/66414813/87038101-e0518600-c1b2-11ea-91d7-5b3da055b38f.gif)
 
 ## Modo de Uso
 El programa presenta dos maneras iniciales para su ejecución:
