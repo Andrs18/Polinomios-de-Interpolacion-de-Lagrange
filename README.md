@@ -18,7 +18,7 @@ Saltar al paso 4.
 #### •	“Directa”:
 1.	Dar clic en el botón “Importar Archivo”.
 2.	Seleccionar el archivo .csv
-3.	Seleccionar las columnas “x” y “y” conocidas
+3.	Seleccionar las columnas “x” y “y” conocidas.
 Saltar al paso 4.
 
 ![4](https://user-images.githubusercontent.com/66414813/87029231-71216500-c1a5-11ea-9f3c-828b8434dc0d.gif)
